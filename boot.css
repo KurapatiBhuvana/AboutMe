@@ -1,0 +1,108 @@
+body  {
+	
+	 
+ background-image: url("gradeint1.jpg") ;
+ background-size:cover ;
+ background-repeat: no-repeat;
+ 
+
+
+}
+.btn-dark:hover, .btn-dark:focus, .btn-dark:active, .btn-dark.active, .open>.dropdown-toggle.btn-dark {
+    
+    background-color: #ffffff;
+    /set the color you want here/
+}
+.img{
+    border-style: solid;
+    border-color: black;
+}
+
+
+.1{
+    margin-top: 10px;
+}
+
+
+
+
+.img-container {
+        text-align: center;
+        margin-top: 50px;
+        
+           
+   
+    
+      }
+ .h{
+ 	font-weight: 900;
+ 	font-family: italian;
+ 	font-size: 50px;
+ 	color:black;
+ }
+h2{font-family: italian;
+	font-size: 70px;
+	
+    text-shadow: 0 0 3px #ffc0cb, 0 0 5px #ffc0cb;
+    color: black;
+  
+    
+}
+  hr.class-2 {
+            border-top: 10px double #000000;
+            color: black;
+            
+        }
+        .z{
+            text-decoration: underline;
+             font-family: italian;
+    
+    text-shadow: 0 0 3px #ffc0cb, 0 0 5px #ffc0cb;
+    color: black;
+    font-size: 100px;
+}
+.u{
+    font-family: italian;
+    font-size: 30px;
+    color: black;
+    
+    
+    
+
+}
+p{font-family:italian;
+font-size: 15px;
+font-weight: 900px;}
+
+p.thicker {
+  font-weight: 900;
+}
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: orange;
+  
+}
+.btn-warning:hover,
+.btn-warning:focus {
+  color: black;
+  background-color: #000000;
+  border-color: #000000;
+}
+
+.d1{color: white;
+border-bottom: 5px solid #e91e63;
+font-family: italian;
+margin-top: 20px;
+font-size: 20px;
+
+}
+.d2{font-family:italian;
+    color: deeppink;
+font-size: 15px;
+font-weight: 900px;
+margin-top: 10px;
+}

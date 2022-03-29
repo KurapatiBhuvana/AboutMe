@@ -1,0 +1,81 @@
+body{
+	 
+ background-image: url("image.jpg") ;
+ background-size:cover ;
+ background-repeat: no-repeat;
+ 
+
+}
+.dif{ width:1325px ;
+  height: 250px;
+
+}
+.one{
+  width: 500px;
+  height: 500px;
+  margin-left: 100px;
+  border-style: solid;
+  border-color: white;
+  border-top-width: 10px;
+  border-bottom-width: 10px;
+  border-left-color: lightskyblue;
+  border-right-color: lightskyblue;
+  border-left-width:10px ;
+  border-right-width:10px ;
+}
+p{
+	color: white;
+	font-size: 25px;
+	margin: 20px 20px 20px 20px;
+  font-family:Copperplate Gothic Light;
+
+}
+span{
+	margin: 300px 300px 300px 300px;
+	margin-left: 300px;
+	color: white;
+	font-size: 60px;
+  font-family:Copperplate Gothic Light;
+  color: lightskyblue;
+}
+   
+
+
+
+    h1{
+    	    
+      
+      font-family:Copperplate Gothic Light;
+      width: 400px;
+      height: 100px;
+      margin: 20px 0;
+      background: red;
+      border-radius: 50% / 10%;
+      color: white;
+      text-align: center;
+      text-indent: .1em;
+      margin-left:400px ;
+      padding:50px 50px 50px 50px ;
+      border-top-style: solid;
+      border-bottom-style: solid;
+      border-left-style: dotted;
+      border-right-style: dotted;
+      border-top-width: 10px;
+      border-bottom-width: 10px;
+      border-left-color: lightskyblue;
+      border-right-color: lightskyblue;
+
+      
+      font-size:70px ;
+    
+    
+      content: '';
+      
+      top: 10%;
+      bottom: 10%;
+      right: -5%;
+      left: -5%;
+      background: inherit;
+      border-radius: 5% / 50%;
+   
+} 
